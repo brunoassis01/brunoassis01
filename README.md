@@ -1,7 +1,6 @@
 ### Hi, I'm Bruno Assis 👋  
 
 - <em>Software Engineer</em> at <a href="https://www.itau.com.br/">Banco Itaú </a>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - <em>Master's student in computer science</em> by <a href="https://www5.usp.br/"> USP</a> (2021 - 202?)
 - <em>Postgraduate in practice of agile methodologies</em> by <a href="https://www.unicesumar.edu.br/home/"> UniCesumar</a> (2019 - 2021)
 - <em>Postgraduate in IT Governance</em> by <a href="https://portal.uniasselvi.com.br/"> Uniasselvi</a> (2016 - 2017)
@@ -11,6 +10,8 @@
 [![GitHub brunoassis01](https://img.shields.io/github/followers/brunoassis01?label=follow&style=social)](https://github.com/brunoassis01)
 
 ### A little more about me...
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ```javascript
 const bruh = {
